@@ -1,0 +1,19 @@
+{
+  "result": [
+    {
+      "image": "<img src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Atlas_Genius_April_2013.jpg/300px-Atlas_Genius_April_2013.jpg\" decoding=\"async\" width=\"300\" height=\"169\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Atlas_Genius_April_2013.jpg/450px-Atlas_Genius_April_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Atlas_Genius_April_2013.jpg/600px-Atlas_Genius_April_2013.jpg 2x\" data-file-width=\"5472\" data-file-height=\"3078\">"
+    },
+    {
+      "image": "<img src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Atlas_Genius_June_2016.jpg/314px-Atlas_Genius_June_2016.jpg\" decoding=\"async\" width=\"314\" height=\"236\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Atlas_Genius_June_2016.jpg/471px-Atlas_Genius_June_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Atlas_Genius_June_2016.jpg/628px-Atlas_Genius_June_2016.jpg 2x\" data-file-width=\"1080\" data-file-height=\"810\">"
+    }
+  ],
+  "id": 697,
+  "exception": null,
+  "status": 5,
+  "isCanceled": false,
+  "isCompleted": true,
+  "isCompletedSuccessfully": true,
+  "creationOptions": 0,
+  "asyncState": null,
+  "isFaulted": false
+}
