@@ -13,7 +13,7 @@ const App = () => {
       <h1 className='text-center py-7'>Wybierz gatunek</h1>
       <div className='flex flex-wrap gap-4 relative justify-center  items-stretch  mx-auto'>
       {genres.map(genre=>(
-        <Card onClick={() => navigate('/artistlist')} 
+        <Card onClick={() => navigate('/wiki/artistlist')} 
         className={` flex justify-center items-center  cursor-pointer py-7 px-4 uppercase
         bg-gradient-to-b from-sky-900 from-10% via-sky-800 via-30% to-slate-800 to-90%
         w-1/4  text-xl text-gray-200 

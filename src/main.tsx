@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
        <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/artistlist" element={<ArtistsList />} />
+        <Route path="/wiki/:artistlist" element={<ArtistsList />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
