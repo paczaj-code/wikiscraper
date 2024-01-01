@@ -1,7 +1,6 @@
-import { Button } from './components/ui/button';
 import { useNavigate } from 'react-router-dom';
 import MainLayout from './components/Layouts/MainLayout';
-import {genres, GenresTypes} from '../data/genres'
+import {genres} from '../data/genres'
 import { Card } from './components/ui/card';
 
 const App = () => {
@@ -14,7 +13,7 @@ const App = () => {
       <div className='flex flex-wrap gap-4 relative justify-center  items-stretch  mx-auto'>
       {genres.map(genre=>(
         <Card onClick={() => navigate('/wiki/artistlist')} 
-        className={` flex justify-center items-center  cursor-pointer py-7 px-4 uppercase
+        className={` flex justify-center items-center  cursor-pointer py-7 px-4 
         bg-gradient-to-b from-sky-900 from-10% via-sky-800 via-30% to-slate-800 to-90%
         w-1/4  text-xl text-gray-200 
         font-bold [text-shadow:2px_2px_1px_rgba(0,0,0,0.5)] text-center border-sky-600
